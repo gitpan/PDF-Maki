@@ -1,0 +1,30 @@
+#=======================================================================
+#    ____  ____  _____           __  __       _    _
+#   |  _ \|  _ \|  ___|  _   _  |  \/  | __ _| | _(_)
+#   | |_) | | | | |_    (_) (_) | |\/| |/ _` | |/ / |
+#   |  __/| |_| |  _|    _   _  | |  | | (_| |   <| |
+#   |_|   |____/|_|     (_) (_) |_|  |_|\__,_|_|\_\_|
+#
+#   $Id: TODO,v 1.1.1.1 2005/02/17 14:51:57 fredo Exp $
+#
+#=======================================================================
+
+* Fonts
+
+    - add unix/gnu/gnome/free ``common fonts´´ to corefonts
+        as has been done for the ms fonts.
+        
+    - autogenerate synthetic variants for all 
+        multiple master dimensions from available
+        family set.
+        
+    - provide a font registration engine for various
+        purposes (tags, xml, etc.).
+
+* Text
+
+    - provide text markup based on pango concepts, even if
+        we might not be able to realize them all.
+
+* ...
+
